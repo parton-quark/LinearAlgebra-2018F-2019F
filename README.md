@@ -1,3 +1,3 @@
 # Education
 
-The notebook is for the class of "Linear algebra" for undergrads.
+These notebooks was made for lectures of "Linear algebra" for undergraduate students.
